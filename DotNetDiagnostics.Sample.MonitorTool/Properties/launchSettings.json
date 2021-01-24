@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotNetDiagnostics.Sample.MonitorTool": {
+      "commandName": "Project",
+      "commandLineArgs": "monitor-gc-events 16600"
+    }
+  }
+}
